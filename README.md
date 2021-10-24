@@ -8,3 +8,5 @@ Any was this program grew to make use of a cpu multicores and then added a simpl
 Its a working progress however I'm proud of how I came so far from nothing.
 Any feedback will be much appreciated...
 Thanks
+
+https://abbasmd.com/logistic-map-generator/
